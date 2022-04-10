@@ -1,0 +1,9 @@
+{
+	"ip":"ProBois2.aternos.me",
+	"port": 18429,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (slokadhikari)",
+	"login-cmd":"/login (slokadhikari)"
+}
